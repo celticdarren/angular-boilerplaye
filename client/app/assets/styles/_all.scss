@@ -1,0 +1,26 @@
+@import './globals';
+
+body {
+  height: 100%;
+  font: 62.5% sans-serif;
+  overflow-y: scroll !important;
+  position: relative;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size:2.325rem;
+  font-weight: 700;
+}
+h2 {
+  font-family: cursive;
+  font-size:3rem;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size:1.735rem;
+  font-weight: 400;
+  margin-bottom:0.875rem
+}
